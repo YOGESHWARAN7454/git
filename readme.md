@@ -2,4 +2,4 @@
 this is complete git course
 
 
-// this is fom bug branch
+## this is from bug branch
